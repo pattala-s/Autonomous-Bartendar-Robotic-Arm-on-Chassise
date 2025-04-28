@@ -12,7 +12,9 @@ markers and pre-defined trajectories for precise localization and
 manipulation. By integrating advanced control systems, ROS-
 based automation, and custom mechanical design, Liquibot aims
 to deliver interactive and efficient robotic bartending experience.
-#INTRODUCTION
+
+
+
 Liquibot is inspired by the infamous Makr Shakr bartending
 robot, known for its ability to mix and serve drinks using two 6+
 DOF robotic arms. We were intrigued by the idea and wanted to
